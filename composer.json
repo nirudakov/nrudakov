@@ -1,0 +1,16 @@
+{
+    "name": "nrudakov/first-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nrudakov\\FirstComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nirudakov",
+            "email": "nrudakov@marfa-tech.com"
+        }
+    ],
+    "require": {}
+}
